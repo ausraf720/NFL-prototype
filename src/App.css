@@ -1,0 +1,38 @@
+.mainBody {
+    margin: 20px;
+    text-align: center;
+}
+
+section {
+    width: 250px;
+    display: inline-block;
+}
+
+.subContent {
+    width: 220px;
+    display: inline-block;
+}
+
+.subsection {
+    font-size: large;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+
+
+.subItem {
+    width: 100px;
+    height: 100px;
+    background-color: lightgrey;
+    margin: 5px;
+    text-align: center;
+}
+
+button {
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+    font-size: large;
+}
