@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./App.css"
+import "./PlayerStatsPage.css"
 
 // This function makes series of stat objects to be displayed for subsection
 function SectionBuilder(stats, names) {
